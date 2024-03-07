@@ -1,0 +1,48 @@
+[
+    {
+      "id":1,
+      "cover": "https://i.ibb.co/BqwbnSJ/7296148.jpg",
+      "title": "The Secret Garden",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "March 3, 2024",
+      "reading_time": 25,
+      "hashtags": ["#fiction", "#classics", "#gardening"]
+    },
+    {
+      "id": 2,
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Space Odyssey",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "February 28, 2024",
+      "reading_time": 20,
+      "hashtags": ["#scifi", "#space", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://example.com/cover3.jpg",
+      "title": "The Enchanted Forest",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "March 1, 2024",
+      "reading_time": 12,
+      "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Mystery Mansion",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "March 5, 2024",
+      "reading_time": 10,
+      "hashtags": ["#mystery", "#detective", "#suspense"]
+    },
+    {
+      "id": 5,
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Into the Wild",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "March 2, 2024",
+      "reading_time": 9,
+      "hashtags": ["#adventure", "#nature", "#survival"]
+    }
+  ]
+  
