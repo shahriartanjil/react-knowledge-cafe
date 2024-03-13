@@ -1,48 +1,53 @@
 [
     {
       "id":1,
-      "cover": "https://i.ibb.co/BqwbnSJ/7296148.jpg",
-      "title": "The Secret Garden",
-      "author_img": "https://example.com/author1.jpg",
+      "cover": "../src/assets/images/1.jpg",
+      "title": "Top 10 Feature of es6",
+      "author": "John Smith",
+      "author_img": "../src/assets/images/boy1.png",
       "posted_date": "March 3, 2024",
       "reading_time": 25,
-      "hashtags": ["#fiction", "#classics", "#gardening"]
+      "hashtags": ["#es6", "#beginners", "#gardening"]
     },
     {
       "id": 2,
-      "cover": "https://example.com/cover2.jpg",
+      "cover": "../src/assets/images/2.png",
       "title": "Space Odyssey",
-      "author_img": "https://example.com/author2.jpg",
+      "author": "Jane Doe",
+      "author_img": "../src/assets/images/boy2.png",
       "posted_date": "February 28, 2024",
       "reading_time": 20,
-      "hashtags": ["#scifi", "#space", "#exploration"]
+      "hashtags": ["#programming", "#space", "#exploration"]
     },
     {
       "id": 3,
-      "cover": "https://example.com/cover3.jpg",
+      "cover": "../src/assets/images/3.png",
       "title": "The Enchanted Forest",
-      "author_img": "https://example.com/author3.jpg",
+      "author": "Alice Johnson",
+      "author_img": "../src/assets/images/girl1.jpg",
       "posted_date": "March 1, 2024",
       "reading_time": 12,
-      "hashtags": ["#fantasy", "#adventure", "#magic"]
+      "hashtags": ["#fantasy", "#programming", "#magic"]
     },
     {
       "id": 4,
-      "cover": "https://example.com/cover4.jpg",
+      "cover": "../src/assets/images/4.jpg",
       "title": "Mystery Mansion",
-      "author_img": "https://example.com/author4.jpg",
+      "author": "Bob Brown",
+      "author_img": "../src/assets/images/girl2.jpg",
       "posted_date": "March 5, 2024",
       "reading_time": 10,
-      "hashtags": ["#mystery", "#detective", "#suspense"]
+      "hashtags": ["#mystery", "#detective", "#programming"]
     },
     {
       "id": 5,
-      "cover": "https://example.com/cover5.jpg",
+      "cover": "https://i.ibb.co/444QgdY/double-exposure-caucasian-man-virtual-reality-vr-headset-is-presumably-gamer-hacker-cracking-code-in.jpg",
       "title": "Into the Wild",
+      "author": "Emma Wilson",
       "author_img": "https://example.com/author5.jpg",
       "posted_date": "March 2, 2024",
       "reading_time": 9,
-      "hashtags": ["#adventure", "#nature", "#survival"]
+      "hashtags": ["#adventure", "#programming", "#survival"]
     }
   ]
   
