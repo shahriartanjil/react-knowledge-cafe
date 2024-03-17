@@ -1,5 +1,6 @@
-import PropTypes from 'prop-types'
-const BookMark = ({bookmark}) => {
+import PropTypes from 'prop-types';
+
+const Bookmark = ({bookmark}) => {
     const {title} = bookmark;
     return (
         <div className='bg-slate-200 p-4 m-4 rounded-xl'>
@@ -8,8 +9,8 @@ const BookMark = ({bookmark}) => {
     );
 };
 
-BookMark.propTypes = {
+Bookmark.propTypes = {
     bookmark: PropTypes.object
 }
 
-export default BookMark;
+export default Bookmark;
